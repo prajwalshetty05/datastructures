@@ -1,2 +1,2 @@
 # datastructures
-asfsdafAD
+This repository consists of basic datastructures implemented in python
